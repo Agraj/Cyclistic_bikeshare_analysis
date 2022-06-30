@@ -58,7 +58,7 @@ all 12 data frames containing data are now stored in 12 variables. Next we Combi
 ```{r}
 ride_data <- rbind(df1,df2,df3,df4,df5,df6,df7,df8,df9,df10,df11,df12)
 ```
-ride_data now contains the data of all 12 data frames (12 months) its just like UNION in SQL.
+used rbind as it will row-bind the data and thats what we needed, ride_data now contains the data of all 12 data frames (12 months) you can think of it like UNION in SQL.
 
 ### cleaning & saving the file
 
