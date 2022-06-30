@@ -77,5 +77,6 @@ write.csv(ride_data, "C:\\Users\\agraj\\OneDrive\\Desktop\\Data Analyst\\case st
 
 now ride_data file is downloaded we can now easily work on excel and after making the columns we want for analysis we will go to tableau to make its visualizations to see whats the story data is telling us.
 
-after creating visualizations in tableau i created a report of the findings and possible paths we can take for meeting our business goals.
+after creating visualizations in tableau i created a report of the findings and possible paths we can take for meeting our business goals, check that out:
 
+https://github.com/Agraj/Cyclistic_bikeshare_analysis/blob/main/CyclisticsReport.pptx
